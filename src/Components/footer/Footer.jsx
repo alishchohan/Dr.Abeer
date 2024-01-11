@@ -17,7 +17,7 @@ export const Footer = () => {
 };
 
 const Div = styled.div`
-  padding: 60px 184px;
+  /* padding: 60px 184px; */
   background: #fff;
   height: 550px;
 
