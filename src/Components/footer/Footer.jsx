@@ -20,6 +20,7 @@ const Div = styled.div`
   /* padding: 60px 184px; */
   background: #fff;
   height: 550px;
+  background: transparent;
 
   h2 {
     font-size: 16px;
